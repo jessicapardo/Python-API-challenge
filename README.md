@@ -43,7 +43,7 @@ For this exercise, a Python scrip was created to work with weather data to plan 
 
 First, a heat map that displays the humidity for every city from Part I was creaded
 
-![Heat map all cities](Images/all_cities_humidity_map.png)
+![Heat map all cities](VacationPy/Images/all_cities_humidity_map.png)
 
 Second, the data was narrow down to find the ideal weather condition for a vacation spot using the following parameters:
 
@@ -54,7 +54,7 @@ Second, the data was narrow down to find the ideal weather condition for a vacat
 
 Using Google Places API, amap was created to show the first hotel for each city with the ideal weather condition located within 5000 meters 
 
-![hotel map](Images/hotel_map.png)
+![hotel map](VacationPy/Images/hotel_map.png)
 
 More details of the analysis and visualization of the graphs can be seen in the VacationPy Jupyther notebook: [VacationPy](VacationPy/VacationPy.ipynb)
 
