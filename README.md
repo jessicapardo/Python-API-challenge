@@ -54,7 +54,7 @@ Second, the data was narrow down to find the ideal weather condition for a vacat
 
 Using Google Places API, amap was created to show the first hotel for each city with the ideal weather condition located within 5000 meters 
 
-  ![hotel map](Images/hotel_map.png)
+![hotel map](Images/hotel_map.png)
 
 More details of the analysis and visualization of the graphs can be seen in the VacationPy Jupyther notebook: [VacationPy](VacationPy/VacationPy.ipynb)
 
